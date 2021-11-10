@@ -1,6 +1,6 @@
 # LM_TrainingPlan
 
-This reposotory will contain code for daily tasks given for the training plan.
+This repo contains code for daily tasks given for the training plan.
 
 The project has been created in eclipse choosing "Spring Starter Project".
 To execute it, right click and click run as "Spring Boot App".
