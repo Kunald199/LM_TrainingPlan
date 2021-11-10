@@ -9,3 +9,6 @@ In App configuration we have set the server port to 8081.
 To access the hello page use url " localhost:8081/hello "
 
 The AppController code can be found in "LM_TrainingPlan1-src-main-java-com-example-demo"
+
+LM_TrainingPlan1 also contains a short demo of dependency injection concept.
+We use Customer and Technologies class to verify how dependency injection concept works.
